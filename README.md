@@ -29,3 +29,17 @@ Score: 0.9%
 Skills: -
 Missing: python, sql, machine learning, etc.
 ```
+
+🌐 Web App (Streamlit UI)
+
+This project includes an interactive web application built using Streamlit.
+
+✨ Features of the Web App
+Upload job description (.txt)
+Upload multiple resumes (.pdf)
+Automatically analyze resumes using NLP
+Calculate similarity scores
+Extract skills from resumes
+Identify missing skills
+Display ranked results in a table
+Download results as CSV
