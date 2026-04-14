@@ -1,21 +1,18 @@
 # Resume Matcher (NLP Project)
 
-## 🚀 Features
+## Features
 - Extract text from PDF resumes
 - Clean text using NLP (spaCy)
 - Match resume with job description
 - Calculate similarity score
 - Detect missing skills
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - spaCy
 - Scikit-learn
 - TF-IDF + Cosine Similarity
 
-## ▶️ Run
-```bash
-python src/main.py
 
 ## Sample Output
 
