@@ -31,7 +31,7 @@ Missing: python, sql, machine learning, etc.
 ```
 
 
-Web App (Streamlit UI)
+## Web App (Streamlit UI)
 
 This project includes an interactive web application built using Streamlit.
 
