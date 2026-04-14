@@ -1,0 +1,11 @@
+We are looking for a Data Science Intern.
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Analysis
+- Pandas
+- NumPy
