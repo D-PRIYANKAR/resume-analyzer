@@ -1,3 +1,4 @@
+<img width="1538" height="901" alt="Screenshot 2026-04-14 at 7 34 36 PM" src="https://github.com/user-attachments/assets/4799eb7c-364c-4d63-890d-2b11e7a6de49" />
 # Resume Matcher (NLP Project)
 
 ## Features
